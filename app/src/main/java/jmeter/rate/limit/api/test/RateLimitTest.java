@@ -29,8 +29,8 @@ public class RateLimitTest {
         final String RESULT_FOLDER_PATH = "/home/ubuntu/jmeter_report";
 
         
-        final String DOMAIN_NAME = "zulutrade.com"; 
-        final String API_PATH = "zulutrade-client/trading/api/providers/404656/trades/open/all"; 
+        final String DOMAIN_NAME = "example.com"; 
+        final String API_PATH = "example-client/trading/api/providers/404656/trades/open/all"; 
 
 
         final int NUMBER_OF_USERS = 20;
